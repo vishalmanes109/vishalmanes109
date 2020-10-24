@@ -29,7 +29,7 @@
 </p>
 
 
-- 🌱 I’m currently Learinng Angular.
+- 🌱 I’m currently Learning Angular.
 - 🌟 I’m currently developing  bookExchanger website using mean stack.
 - 📧 Reach me: [vishalmanes109@gmail.com](mailto:vishalmanes109@gmail.com)
 
