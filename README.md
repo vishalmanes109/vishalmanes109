@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am Vishal Mane, Full-Stack Developer and Machine Learning Enthusiast from Mumbai, India.
+#### I am Full-Stack Developer and Machine Learning Enthusiast from Mumbai, India.
 
 <p>
 <a href="https://vishalmanes109.github.io/portfolio/" target="_blank">
@@ -12,7 +12,6 @@
 </a> 
 
 </p>
-
 
 
 <h3 align="left">Languages, Framework and Tools:</h3>
