@@ -33,5 +33,4 @@
 - 📧 Reach me: [vishalmanes109@gmail.com](mailto:vishalmanes109@gmail.com)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmanes109&layout=compact" alt="vishalmanes109" /></p>
 
