@@ -32,5 +32,9 @@
 - 🌟 I’m currently developing  bookExchanger website using mean stack.
 - 📧 Reach me: [vishalmanes109@gmail.com](mailto:vishalmanes109@gmail.com)
 
+![My Github stats](https://github-readme-stats.vercel.app/api?username=vishalmanes109&count_private=true)
+![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmanes109&layout=compact)
+
+
 
 
