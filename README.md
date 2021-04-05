@@ -18,12 +18,8 @@
 
 - <a href="https://bookxchagner.ninja">BookXchanger : swap/exchange books with other users for free.</a>
   <br/>
-  <br/>
-
 - <a href="https://myjournalit.herokuapp.com">JournalIT : The personalized digital Journal, where you can record their thoughts, ideas, moments. All the user data is encrypted. </a>
   <br/>
-  <br/>
-
 - <a href="https://www.youtube.com/watch?v=CTQaOSVYpn8&t=1s"> Indian Currency Recognizer System :Developed the model which detects and recognizes the Indian currency.and dictates the currency denomination to user.
   </a>
 
