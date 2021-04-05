@@ -16,7 +16,7 @@
 
 ### My recent Projects:
 
-- <a href="https://bookxchagner.ninja">BookXchanger : swap/exchange books with other users for free.</a>
+- <a href="https://bookxchanger.ninja/">BookXchanger : swap/exchange books with other users for free.</a>
   <br/>
 - <a href="https://myjournalit.herokuapp.com">JournalIT : The personalized digital Journal, where you can record their thoughts, ideas, moments. All the user data is encrypted. </a>
   <br/>
