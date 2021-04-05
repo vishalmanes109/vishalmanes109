@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 #### I am Full-Stack Developer and Machine Learning Enthusiast from Mumbai, India.
@@ -5,14 +6,26 @@
 <p>
 <a href="https://vishalmanes109.github.io/portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/website-%23E34F26.svg?&style=for-the-badge" />
-</a> 
+</a>
 
 <a href="https://www.linkedin.com/in/vishalm109/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> 
+</a>
 
 </p>
 
+### My recent Projects:
+
+- <a href="https://bookxchagner.ninja">BookXchanger : swap/exchange books with other users for free.</a>
+  <br/>
+  <br/>
+
+- <a href="https://myjournalit.herokuapp.com">JournalIT : The personalized digital Journal, where you can record their thoughts, ideas, moments. All the user data is encrypted. </a>
+  <br/>
+  <br/>
+
+- <a href="https://www.youtube.com/watch?v=CTQaOSVYpn8&t=1s"> Indian Currency Recognizer System :Developed the model which detects and recognizes the Indian currency.and dictates the currency denomination to user.
+  </a>
 
 <h3 align="left">Languages, Framework and Tools:</h3>
 <p align="left"> 
@@ -27,21 +40,12 @@
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-
-- 🔭  I’m currently Learning Angular.
-- 🌟 I’m currently developing  bookXchanger website using pean stack.
-- 🌱 Dabbles in, but not limited to: 
+- 🔭 I’m currently Learning Angular.
+- 🌟 I’m currently developing bookXchanger website using pean stack.
+- 🌱 Dabbles in, but not limited to:
   - C/Java/Javascript/Python
   - Data Structures and algorithms
   - Deep Learning
   - Web Development
-  
 - 📧 Reach me: [vishalmanes109@gmail.com](mailto:vishalmanes109@gmail.com)
-
-  
 - ![My Github stats](https://github-readme-stats.vercel.app/api?username=vishalmanes109&count_private=true)
-
-
-
-
-
