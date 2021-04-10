@@ -7,8 +7,14 @@
   <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Full-stack%20developer;
   Machine%20Learning%20Enthusiast;
   Always%20learning%20new%20things;
-  From%20Mumbai,%20India.&center=true&width=380&height=50">
+  From%20Mumbai,%20India.&center=true&width=380&height=50" alt="intro">
 </p>
+  <marquee style="color:white;font-weight:900;font-size:20px"> I'm a Full-Stack Developer and Machine Learning Enthusiast, always ready to learn new things.</marquee>
+
+- 🌱 I’m currently learning React. 
+- 🌟 I’m currently developing SportsBuzz WebApp that  helps poeple to join their favourite sport club and join the sport community from your area.
+
+<br>
 
 <p align="center">
 <a href="https://vishalmanes109.github.io/portfolio/" target="_blank">
@@ -36,14 +42,14 @@
 
 <p align="left">
   <a href="https://github.com/vishalmanes109/BookExchanger">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vishalmanes109&repo=BookExchanger&theme=angular&bg_color=0D1117&hide_border=true&show_icons=true" alt="BookXchanger-Repo"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vishalmanes109&repo=BookExchanger&theme=angular&bg_color=fff&hide_border=true&show_icons=true" alt="BookXchanger-Repo"></a>
 
   <a href="https://github.com/vishalmanes109/JournalIt">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vishalmanes109&repo=JournalIT&theme=nodejs&bg_color=0D1117&hide_border=true&show_icons=true" alt="JournalIt"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vishalmanes109&repo=JournalIT&theme=nodejs&bg_color=fff&hide_border=true&show_icons=true" alt="JournalIt"></a>
     <a href="https://github.com/vishalmanes109/Indian-Currency-recognizer">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vishalmanes109&repo=Indian-Currency-recognizer&theme=nodejs&bg_color=0D1117&hide_border=true&show_icons=true" alt="Indian Currency Recognizer"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vishalmanes109&repo=Indian-Currency-recognizer&theme=nodejs&bg_color=fff&hide_border=true&show_icons=true" alt="Indian Currency Recognizer"></a>
     <a href="https://github.com/vishalmanes109/android_tictactoe">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vishalmanes109&repo=android_tictactoe&theme=angular&bg_color=0D1117&hide_border=true&show_icons=true" alt="BookXchanger-Repo"></a>
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vishalmanes109&repo=android_tictactoe&theme=angular&bg_color=fff&hide_border=true&show_icons=true" alt="BookXchanger-Repo"></a>
 </p>
 
 <p align="left">
