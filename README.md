@@ -3,13 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
-  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Full-stack%20developer;
-  Machine%20Learning%20Enthusiast;
-  Always%20learning%20new%20things;
-  From%20Mumbai,%20India.&center=true&width=380&height=50" alt="intro">
-</p>
-  <marquee style="color:white;font-weight:900;font-size:20px"> I'm a Full-Stack Developer and Machine Learning Enthusiast, always ready to learn new things.</marquee>
+<marquee style="color:white;font-weight:900;font-size:20px"> I'm a Full-Stack Developer and Machine Learning Enthusiast, always ready to learn new things.</marquee>
 
 - 🧑🏽‍💻I am full stack developer with around 3 years of professional experience.
 - 💻 I am skilled in MERN stack, aws, Relational database, GraphQl, Serverless.   
