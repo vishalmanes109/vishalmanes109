@@ -11,7 +11,8 @@
 </p>
   <marquee style="color:white;font-weight:900;font-size:20px"> I'm a Full-Stack Developer and Machine Learning Enthusiast, always ready to learn new things.</marquee>
 
-- 🌱 I’m currently learning React. 
+- 🧑🏽‍💻I am full stack developer with around 3 years of professional experience.
+- 💻 I am skilled in MERN stack, aws, Relational database, GraphQl, Serverless.   
 - 🌟 I’m currently developing SportsBuzz WebApp that  helps poeple to join their favourite sport club and join the sport community from your area.
 
 <br>
