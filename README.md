@@ -5,9 +5,9 @@
 
 <marquee style="color:white;font-weight:900;font-size:20px"> I'm a Full-Stack Developer and Machine Learning Enthusiast, always ready to learn new things.</marquee>
 
-- 🧑🏽‍💻I am full stack developer with around 3 years of professional experience.
-- 💻 I am skilled in MERN stack, aws, Relational database, GraphQl, Serverless.   
-- 🌟 I’m currently developing SportsBuzz WebApp that  helps poeple to join their favourite sport club and join the sport community from your area.
+- 🧑🏽‍💻I am a full-stack developer with around 4+ years of professional experience.
+- 💻 I am skilled in NodeJs, React, MongoDB, AWS, GCP, SQL, GraphQl, and Serverless.   
+- 🌟 I’m currently developing SportsBuzz WebApp that  helps people join their favorite sports club and the sports community from your area.
 
 <br>
 
@@ -33,7 +33,7 @@
 
 </p>
 
-## 📘 My top open source projects
+## 📘 My top open-source projects
 
 <p align="left">
   <a href="https://github.com/vishalmanes109/BookExchanger">
@@ -137,7 +137,7 @@
       src="https://pics.freeicons.io/uploads/icons/png/16475775581551942134-512.png"></a>
 </p>
 
-## 📊 Github stats
+## 📊 GitHub stats
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p> 
   <summary>💻 GitHub Profile Stats</summary>
@@ -153,6 +153,6 @@
 <br>
 <br>
 
-## 📊 Github contributions graph 
+## 📊 GitHub contributions graph 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="vishalmanes109's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vishalmanes109&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
