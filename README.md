@@ -5,7 +5,7 @@
 
 <marquee style="color:white;font-weight:900;font-size:20px"> I'm a Full-Stack Developer and Machine Learning Enthusiast, always ready to learn new things.</marquee>
 
-- 🧑🏽‍💻I am a full-stack developer with around 4+ years of professional experience.
+- 🧑🏽‍💻I am a full-stack developer with around 5.5+ years of professional experience.
 - 💻 I am skilled in NodeJs, React, MongoDB, AWS, GCP, SQL, GraphQl, and Serverless.   
 - 🌟 I’m currently developing SportsBuzz WebApp that  helps people join their favorite sports club and the sports community from your area.
 
